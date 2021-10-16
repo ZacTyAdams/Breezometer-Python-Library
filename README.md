@@ -1,0 +1,1 @@
+This is an unofficial library for the Breezometer API primarily for use by the Breezometer Home Assistant integration.
